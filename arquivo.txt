@@ -1,0 +1,3 @@
+Olá mundo, eu amo Python!
+A Gabriela é muito Legal pessoas!
+O Andrey é muito nenenguinho! 
